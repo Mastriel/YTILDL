@@ -4,7 +4,7 @@ This is a userscript that allows you to download youtube videos by simply clicki
 ![image](https://user-images.githubusercontent.com/59402263/140661048-100ee7c4-2f26-432f-ad1d-a9abec2ea3aa.png)
 
 
-### How to download
+## How to download
 
 - Install the **Tampermonkey** extension on Google Chrome, Mozilla Firefox, Safari (MacOS), Microsoft Edge (only the new version), or Opera. Other browsers that support userscripts should work, but Tampermonkey is just my recommended userscript manager.
   - [Install for Google Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
