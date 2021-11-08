@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="YTILDL-1.1.4">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="YTILDL-1.1.4.jar">
+      <element id="module-output" name="YTILDL.main" />
+    </root>
+  </artifact>
+</component>
