@@ -1,4 +1,4 @@
-## Youtube Inline Downloader (YTILDL)
+# Youtube Inline Downloader (YTILDL)
 This is a userscript that allows you to download youtube videos by simply clicking a button on the YouTube video. This works in both light mode and dark mode, and downloads at around ~3-7mbps, depending on the current server load and your internet connection.
 
 ![image](https://user-images.githubusercontent.com/59402263/140661048-100ee7c4-2f26-432f-ad1d-a9abec2ea3aa.png)
